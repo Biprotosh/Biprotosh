@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Biprotosh
 - 👀 I’m interested in Software Devlopment
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on minor projects because i'm a newbie
+- 💞️ I would like to collaborate on minor projects because i'm a newbie
 - 📫 How to reach me 📧 dbiprotosh@gmail.com  
 
 <!---
