@@ -4,16 +4,13 @@
 </p>
 
 ## 😎 Yo! I’m Biprotosh — Code Wizard 🧙‍♂️ | Bug Hunter 🐛 | Fullstack Dev 💻  
-  <img src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp" alt="coding gif" width="250" align="right"/>
+  <img src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp" alt="coding gif" width="150" align="right"/>
 
 - 🌱 Currently diving deep into Web Development
 - 💬 Ask me about **TypeScript, Web Dev etc**
 - 🔥 Fun fact: 99% of my bugs are solved by “one missing semicolon” 😅
 - 🔧 Love building, breaking & fixing things (in that order)
 - 📫 Reach me at **[dbiprotosh@gmail.com](mailto:dbiprotosh@gmail.com)**
-
-<br>
-<br>
 
 ## 🛠️ Languages & Tools  
 
