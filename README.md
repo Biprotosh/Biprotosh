@@ -71,11 +71,11 @@
 <br clear="both">
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biprotosh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biprotosh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Biprotosh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biprotosh&theme=highcontrast)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biprotosh&theme=highcontrast)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biprotosh&theme=highcontrast)
+<img src="https://streak-stats.demolab.com?user=Biprotosh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"  alt="streak graph"  />
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biprotosh&theme=highcontrast)
 
 ###
 
