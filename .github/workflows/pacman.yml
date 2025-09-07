@@ -1,0 +1,28 @@
+name: Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs once a day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman Contribution Graph
+        uses: maurodesouza/profile-readme-generator@v1
+        with:
+          template: "pacman-contribution-graph"
+          base-output-path: "./output"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push generated files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore: update pacman graph" || echo "No changes to commit"
+          git push
