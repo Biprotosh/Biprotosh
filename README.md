@@ -74,7 +74,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biprotosh&theme=highcontrast)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biprotosh&theme=highcontrast)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biprotosh&theme=highcontrast)
-<img src="https://streak-stats.demolab.com?user=Biprotosh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"  alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=Biprotosh&theme=dark&background=000000&ring=F5C542&fire=F5426C&currStreakLabel=00FFFB&sideLabels=F5C542&dates=AAAAAA&currStreakNum=00FFFB&sideNums=F5426C" alt="streak graph" />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biprotosh&theme=highcontrast)
 
 ###
