@@ -81,4 +81,6 @@
 
 <br clear="both">
 
+![Pacman Contribution Graph (dark)](https://raw.githubusercontent.com/Biprotosh/Biprotosh/output/pacman-contribution-graph-dark.svg)
+
 ###
