@@ -1,0 +1,32 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"    # runs daily
+  workflow_dispatch:       # allows manual runs
+
+# allow pushing files (required by the deploy step)
+permissions:
+  contents: write
+
+jobs:
+  generate-pacman:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman contribution graph (SVG)
+        # this is a real GitHub Action that generates the SVGs into `dist/`
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Deploy generated SVGs to output branch
+        # push dist/ to `output` branch (so raw.githubusercontent links will work)
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
