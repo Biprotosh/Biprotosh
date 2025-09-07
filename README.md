@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome+to+My+GitHub!&fontSize=30&fontAlignY=35&animation=fadeIn&fontColor=fff" />
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=640&lines=Hi+👋,+I'm+Biprotosh!;Fullstack+Developer+💻;Code+Wizard+🧙‍♂️+|+Bug+Hunter+🐛;Always+Learning+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&speed=50&color=F75C7E&width=640&lines=Hi+👋,+I'm+Biprotosh!;Fullstack+Developer+💻;Code+Wizard+🧙‍♂️+|+Bug+Hunter+🐛;Always+Learning+🚀)
 
 ## 😎 Yo! I’m Biprotosh — Code Wizard 🧙‍♂️ | Bug Hunter 🐛 | Fullstack Dev 💻  
   <img src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp" alt="coding gif" width="200" align="right"/>
